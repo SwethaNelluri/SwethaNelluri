@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SwethaNelluri
-- 👀 I’m interested in 
-- 🌱 I’m currently learning full stack web development
+- 👀 I’m interested in full stack web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
